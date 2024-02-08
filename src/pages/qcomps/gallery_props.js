@@ -1,3 +1,7 @@
+function Profile ({scientist, size = 100}) {
+  
+}
+
 export default function Gallery() {
   return (
     <div>
